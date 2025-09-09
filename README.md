@@ -16,7 +16,8 @@ I'm a passionate **web developer** currently expanding my skills into **mobile a
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 ### Backend
 
@@ -30,6 +31,7 @@ I'm a passionate **web developer** currently expanding my skills into **mobile a
 
 ### Tools & Technologies
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -48,7 +50,8 @@ I'm a passionate **web developer** currently expanding my skills into **mobile a
 - **Frontend**: TypeScript, React, Tailwind CSS, Redux, Axios
 - **Backend**: Python, Django, SQLite, Cloudinary
 - **Features**: User authentication, talent marketplace, chat system, customizable settings, reviews system
-- **Status**: Currently in development
+- **Status**: Still in development
+- **[Live Demo](https://tradetalent-app-frontend-bktj.vercel.app/)**
 
 ### ☁️ Cloud File Manager
 
@@ -56,7 +59,7 @@ I'm a passionate **web developer** currently expanding my skills into **mobile a
 
 - **Frontend**: JavaScript, React, CSS
 - **Backend**: Node.js, Express, PostgreSQL, Supabase
-- **Features**: File upload, storage, and sharing capabilities
+- **Features**: User authentication, File upload, storage, and sharing capabilities
 - **[Live Demo](https://file-uploader-1cpl.onrender.com/)**
 
 ### 🌤️ Weather App
@@ -72,7 +75,7 @@ I'm a passionate **web developer** currently expanding my skills into **mobile a
 ## 🌱 Currently Learning
 
 - **React Native** for mobile app development
-- Advanced TypeScript patterns
+- Database Query Optimizations
 - Mobile-first design principles
 
 ## 🔗 Connect with Me
