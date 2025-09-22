@@ -50,7 +50,7 @@ I'm a passionate **web developer** currently expanding my skills into **mobile a
 - **Backend**: Python, Django, SQLite, Cloudinary
 - **Features**: User authentication, talent marketplace, chat system, customizable settings, reviews system
 - **Status**: Still in development
-- **[Live Demo](https://tradetalent-app-frontend-bktj-hpthv1pz4.vercel.app)**
+- **[Live Demo](https://tradetalent-app-frontend-bktj.vercel.app/)**
 
 ### ☁️ Cloud File Manager
 
