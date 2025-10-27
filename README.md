@@ -50,7 +50,7 @@ I'm a passionate **web developer** currently expanding my skills into **mobile a
 - **Backend**: Python, Django, SQLite, Cloudinary
 - **Features**: User authentication, talent marketplace, chat system, mailing system
 - **Status**: Still in development
-- **[Live Demo](https://tradetalent-app-frontend-bktj-hpthv1pz4.vercel.app)**
+- **[Live Demo](https://tradetalent-app-frontend-bktj.vercel.app/)**
 
 ### ☁️ Cloud File Manager
 
@@ -71,11 +71,11 @@ I'm a passionate **web developer** currently expanding my skills into **mobile a
 - Settings page for customizing UI and units
 - **[Live Demo](https://kaberasamuel.github.io/Weather-App/html/welcome.html)**
 
-## 🌱 Currently Doing
+## 🌱 Current Occupations
 
 - Building chat system for **tradetalent app**
-- Websockets for real-time server/client communication
-- Mobile-first design principles
+- Learning Websockets for real-time server/client communication
+- Learning Mobile-first design principles
 
 ## 🔗 Connect with Me
 
