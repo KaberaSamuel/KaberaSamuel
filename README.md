@@ -13,6 +13,7 @@ I'm a passionate **web developer** currently expanding my skills into **mobile a
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -36,7 +37,6 @@ I'm a passionate **web developer** currently expanding my skills into **mobile a
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
@@ -48,7 +48,7 @@ I'm a passionate **web developer** currently expanding my skills into **mobile a
 
 - **Frontend**: TypeScript, React, Tailwind CSS, Redux, Axios
 - **Backend**: Python, Django, SQLite, Cloudinary
-- **Features**: User authentication, talent marketplace, chat system, customizable settings, reviews system
+- **Features**: User authentication, talent marketplace, chat system, mailing system
 - **Status**: Still in development
 - **[Live Demo](https://tradetalent-app-frontend-bktj-hpthv1pz4.vercel.app)**
 
@@ -71,9 +71,9 @@ I'm a passionate **web developer** currently expanding my skills into **mobile a
 - Settings page for customizing UI and units
 - **[Live Demo](https://kaberasamuel.github.io/Weather-App/html/welcome.html)**
 
-## 🌱 Currently Learning
+## 🌱 Currently Doing
 
-- **React Native** for mobile app development
+- Building chat system for **tradetalent app**
 - Websockets for real-time server/client communication
 - Mobile-first design principles
 
