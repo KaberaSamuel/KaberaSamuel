@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **web developer** currently expanding my skills into **mobile application development** with React Native. I enjoy building innovative applications and exploring new technologies to create efficient solutions.
+I'm an aspiring software developer. I have solid foundation in **fullstack web development**, currently expanding my skills into **mobile application development** with React Native. I like exploring new technologies to build interesting projects!
 
 ## 💻 Tech Stack
 
@@ -34,30 +34,28 @@ I'm a passionate **web developer** currently expanding my skills into **mobile a
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 ## 🌟 Featured Projects
 
-### 🔄 TradeTalent App
+### 🔄 TradeTalentApp (Service Exchange app)
 
 **Full-Stack Application** - A platform where users can trade their talents for services with zero or minimal digital payment requirements.
 
-- **Frontend**: TypeScript, React, Tailwind CSS, Redux, Axios
+- **Frontend**: TypeScript, React, Tailwind, Redux, Axios
 - **Backend**: Python, Django, SQLite, Cloudinary
 - **Features**: User authentication, talent marketplace, chat system, mailing system
-- **Status**: Still in development
-- **[Live Demo](https://tradetalent-app-frontend-bktj-hpthv1pz4.vercel.app)**
+- **Status**: Still in development (Almost done, just some final touches)
+- **[Live Demo](https://tradetalent-app-frontend-bktj.vercel.app/)**
 
-### ☁️ Cloud File Manager
+### ☁️ File Uploader
 
 **Full-Stack Application** - A comprehensive file storage and sharing solution.
 
 - **Frontend**: JavaScript, React, CSS
-- **Backend**: Node.js, Express, PostgreSQL, Supabase
+- **Backend**: Node.js, Express, Supabase
 - **Features**: User authentication, File upload, storage, and sharing capabilities
 - **[Live Demo](https://file-uploader-1cpl.onrender.com/)**
 
@@ -71,11 +69,13 @@ I'm a passionate **web developer** currently expanding my skills into **mobile a
 - Settings page for customizing UI and units
 - **[Live Demo](https://kaberasamuel.github.io/Weather-App/html/welcome.html)**
 
-## 🌱 Currently Doing
+**[Click Reposities tab to see all of my public projects](https://kaberasamuel.github.io/Weather-App/html/welcome.html)**
 
-- Building chat system for **tradetalent app**
-- Websockets for real-time server/client communication
-- Mobile-first design principles
+## 🌱 Current Occupations
+
+- Building chat system for **Service Exchange App**
+- Learning Websockets for real-time server/client communication
+- Learning Mobile-first design principles
 
 ## 🔗 Connect with Me
 
