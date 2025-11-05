@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm an aspiring software developer. I have solid foundation in **fullstack web development**, currently expanding my skills into **mobile application development** with React Native. I like exploring new technologies to build interesting projects!
+I'm a passionate developer. I have strong foundation in **fullstack web development**, currently expanding my skills into **mobile application development** with React Native. I like exploring new technologies and building interesting projects!
 
 ## 💻 Tech Stack
 
@@ -50,7 +50,7 @@ I'm an aspiring software developer. I have solid foundation in **fullstack web d
 - **Status**: Still in development (Almost done, just some final touches)
 - **[Live Demo](https://tradetalent-app-frontend-bktj.vercel.app/)**
 
-### ☁️ File Uploader
+### ☁️ File Uploader (Cloud File Manager)
 
 **Full-Stack Application** - A comprehensive file storage and sharing solution.
 
@@ -69,13 +69,7 @@ I'm an aspiring software developer. I have solid foundation in **fullstack web d
 - Settings page for customizing UI and units
 - **[Live Demo](https://kaberasamuel.github.io/Weather-App/html/welcome.html)**
 
-**[Click Reposities tab to see all of my public projects](https://kaberasamuel.github.io/Weather-App/html/welcome.html)**
-
-## 🌱 Current Occupations
-
-- Building chat system for **Service Exchange App**
-- Learning Websockets for real-time server/client communication
-- Learning Mobile-first design principles
+See all of my public projects **[here](https://github.com/KaberaSamuel?tab=repositories)**
 
 ## 🔗 Connect with Me
 
