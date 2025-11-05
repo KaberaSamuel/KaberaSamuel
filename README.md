@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm an aspiring software developer. I have solid foundation in **fullstack web development**, currently expanding my skills into **mobile application development** with React Native. I like exploring new technologies to build interesting projects!
+I'm a passionate developer. I have strong foundation in **fullstack web development** with React, Node and Django Technologies. Currently, I am expanding my skills into backend development with java.
 
 ## 💻 Tech Stack
 
@@ -16,6 +16,7 @@ I'm an aspiring software developer. I have solid foundation in **fullstack web d
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TanStack](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
@@ -45,12 +46,11 @@ I'm an aspiring software developer. I have solid foundation in **fullstack web d
 **Full-Stack Application** - A platform where users can trade their talents for services with zero or minimal digital payment requirements.
 
 - **Frontend**: TypeScript, React, Tailwind, Redux, Axios
-- **Backend**: Python, Django, SQLite, Cloudinary
+- **Backend**: Python, Django, Mysql, Cloudinary
 - **Features**: User authentication, talent marketplace, chat system, mailing system
-- **Status**: Still in development (Almost done, just some final touches)
 - **[Live Demo](https://tradetalent-app-frontend-bktj.vercel.app/)**
 
-### ☁️ File Uploader
+### ☁️ File Uploader (Cloud File Manager)
 
 **Full-Stack Application** - A comprehensive file storage and sharing solution.
 
@@ -66,16 +66,8 @@ I'm an aspiring software developer. I have solid foundation in **fullstack web d
 - Dynamic weather data fetching with API integration
 - Responsive design for all devices
 - Location-based weather updates
-- Settings page for customizing UI and units
+- Integrated Map to tracked searched locations
 - **[Live Demo](https://kaberasamuel.github.io/Weather-App/html/welcome.html)**
-
-**[Click Reposities tab to see all of my public projects](https://kaberasamuel.github.io/Weather-App/html/welcome.html)**
-
-## 🌱 Current Occupations
-
-- Building chat system for **Service Exchange App**
-- Learning Websockets for real-time server/client communication
-- Learning Mobile-first design principles
 
 ## 🔗 Connect with Me
 
